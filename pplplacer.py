@@ -5,18 +5,18 @@ import tkinter as tk
 
 #create token to represent individual characters
 class token(object):
-    def character():
+    def character(self):
         pass
-    def history():
+    def history(self):
         pass
     
 #create map to 
 class space(object):
-    def space():
+    def space(self):
         pass
 
 class time(object):
-    def timeline():
+    def timeline(self):
         pass
 
 
